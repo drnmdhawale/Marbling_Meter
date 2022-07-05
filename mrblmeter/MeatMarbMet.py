@@ -1,3 +1,8 @@
+#This code was written by Nandkshor Motiram Dhawale, PhD On June 22nd 2016.
+#This code is written Capture image of food object using pi camera on raspberry pi platform
+#The problem statement was given by the my Post doctoral advisor Dr. M. Ngadi from Department of
+# Bioresource Engineering at McGill University, Macdonalds Campus. Ste-Anne-de-Bellevue, QC. Canada
+
 import FileDialog
 
 import ImageTk
